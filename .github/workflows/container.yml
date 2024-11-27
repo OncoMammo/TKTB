@@ -17,4 +17,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: aqilashap10/nextwebapp:latest, aqilashap10/nextwebapp:${{ github.run_number }}
+        tags: aqilashap10/oncomammoweb:latest, aqilashap10/oncomammoweb:${{ github.run_number }}
